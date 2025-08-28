@@ -1,1 +1,1 @@
-# the-odin-project-js-fullstack
+# TheOdinProject-FullStack-JS
